@@ -1,0 +1,88 @@
+import type { Category } from "@/types/category";
+
+export const categories: Category[] = [
+    {
+        id: "cat-1",
+        slug: "fashion",
+        name: "پوشاک",
+        description: "انتخابی از پوشاک مدرن و کاربردی",
+        image: {
+            url: "/images/categories/fashion.webp",
+            alt: "پوشاک",
+        },
+        productCount: 24,
+        featured: true,
+        createdAt: "2026-01-01T00:00:00.000Z",
+        updatedAt: "2026-01-01T00:00:00.000Z",
+    },
+    {
+        id: "cat-2",
+        slug: "shoes",
+        name: "کفش",
+        description: "کفش‌های روزمره و رسمی",
+        image: {
+            url: "/images/categories/shoes.webp",
+            alt: "کفش",
+        },
+        productCount: 18,
+        featured: true,
+        createdAt: "2026-01-01T00:00:00.000Z",
+        updatedAt: "2026-01-01T00:00:00.000Z",
+    },
+    {
+        id: "cat-3",
+        slug: "bags",
+        name: "کیف",
+        description: "کیف‌های شیک و کاربردی",
+        image: {
+            url: "/images/categories/bags.webp",
+            alt: "کیف",
+        },
+        productCount: 16,
+        featured: true,
+        createdAt: "2026-01-01T00:00:00.000Z",
+        updatedAt: "2026-01-01T00:00:00.000Z",
+    },
+    {
+        id: "cat-4",
+        slug: "accessories",
+        name: "اکسسوری",
+        description: "اکسسوری‌های مینیمال و جذاب",
+        image: {
+            url: "/images/categories/accessories.webp",
+            alt: "اکسسوری",
+        },
+        productCount: 21,
+        featured: true,
+        createdAt: "2026-01-01T00:00:00.000Z",
+        updatedAt: "2026-01-01T00:00:00.000Z",
+    },
+    {
+        id: "cat-5",
+        slug: "beauty",
+        name: "زیبایی",
+        description: "محصولات منتخب مراقبت و زیبایی",
+        image: {
+            url: "/images/categories/beauty.webp",
+            alt: "زیبایی",
+        },
+        productCount: 13,
+        featured: false,
+        createdAt: "2026-01-01T00:00:00.000Z",
+        updatedAt: "2026-01-01T00:00:00.000Z",
+    },
+    {
+        id: "cat-6",
+        slug: "lifestyle",
+        name: "سبک زندگی",
+        description: "محصولات کاربردی برای سبک زندگی مدرن",
+        image: {
+            url: "/images/categories/lifestyle.webp",
+            alt: "سبک زندگی",
+        },
+        productCount: 15,
+        featured: false,
+        createdAt: "2026-01-01T00:00:00.000Z",
+        updatedAt: "2026-01-01T00:00:00.000Z",
+    },
+];
