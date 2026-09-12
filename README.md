@@ -90,9 +90,6 @@ New Arrivals
   ↓
 Newsletter
 ```
-
-````
-
 ---
 
 ### 🛍️ Products
