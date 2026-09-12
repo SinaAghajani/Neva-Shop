@@ -1,4 +1,3 @@
-````md
 # 🛍️ Neva
 
 <div align="center">
@@ -10,6 +9,19 @@
 **Neva** is a modern, elegant, and responsive e-commerce frontend built with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.
 
 A clean shopping experience designed with scalability, performance, and a future-ready architecture in mind.
+
+<br />
+
+![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+<br />
+
+![Zustand](https://img.shields.io/badge/Zustand-State_Management-443E38?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animations-FF0055?style=for-the-badge&logo=framer&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-Forms-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 </div>
 
@@ -78,6 +90,7 @@ New Arrivals
   ↓
 Newsletter
 ```
+
 ````
 
 ---
@@ -721,3 +734,4 @@ This project is currently intended for educational, portfolio, and development p
 این نسخه برای وضعیت فعلی پروژه‌ات نوشته شده و **Backend را هم عمداً به‌عنوان Future/API-ready** معرفی کرده، نه اینکه وانمود کند الان وجود دارد.
 
 یک نکته کوچک: در خط clone، `your-username/Neva` را وقتی ریپوی واقعی GitHub را ساختی با آدرس واقعی ریپو عوض کن.
+````
